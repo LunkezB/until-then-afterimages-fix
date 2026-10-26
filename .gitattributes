@@ -1,0 +1,6 @@
+* text=auto
+*.md text eol=lf
+*.import text eol=lf
+*.json text eol=lf
+*.ctex -text
+*.zip -text
